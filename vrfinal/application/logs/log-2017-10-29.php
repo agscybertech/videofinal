@@ -1,0 +1,27 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2017-10-29 04:58:00 --> Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'page_missing' /home/cinfo/public_html/vidcproj/system/core/CodeIgniter.php 360
+ERROR - 2017-10-29 04:58:00 --> Severity: Notice  --> Undefined variable: meta_keywords /home/cinfo/public_html/vidcproj/application/views/header_outer.php 37
+ERROR - 2017-10-29 04:58:25 --> Severity: Notice  --> Undefined variable: meta_keywords /home/cinfo/public_html/vidcproj/application/views/header_outer.php 37
+ERROR - 2017-10-29 15:14:06 --> Severity: Notice  --> Undefined variable: meta_keywords /home/cinfo/public_html/vidcproj/application/views/header_outer.php 37
+ERROR - 2017-10-29 15:27:05 --> Severity: Notice  --> Undefined variable: meta_keywords /home/cinfo/public_html/vidcproj/application/views/header_outer.php 37
+ERROR - 2017-10-29 15:30:14 --> Severity: Notice  --> Undefined variable: meta_keywords /home/cinfo/public_html/vidcproj/application/views/header_outer.php 37
+ERROR - 2017-10-29 15:37:00 --> Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'page_missing' /home/cinfo/public_html/vidcproj/system/core/CodeIgniter.php 360
+ERROR - 2017-10-29 15:37:05 --> Severity: Notice  --> Undefined variable: meta_keywords /home/cinfo/public_html/vidcproj/application/views/header_outer.php 37
+ERROR - 2017-10-29 15:55:38 --> Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'page_missing' /home/cinfo/public_html/vidcproj/system/core/CodeIgniter.php 360
+ERROR - 2017-10-29 15:55:38 --> Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'page_missing' /home/cinfo/public_html/vidcproj/system/core/CodeIgniter.php 360
+ERROR - 2017-10-29 15:55:39 --> Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'page_missing' /home/cinfo/public_html/vidcproj/system/core/CodeIgniter.php 360
+ERROR - 2017-10-29 16:05:37 --> Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'page_missing' /home/cinfo/public_html/vidcproj/system/core/CodeIgniter.php 360
+ERROR - 2017-10-29 16:05:38 --> Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'page_missing' /home/cinfo/public_html/vidcproj/system/core/CodeIgniter.php 360
+ERROR - 2017-10-29 21:50:03 --> Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'page_missing' /home/cinfo/public_html/vidcproj/system/core/CodeIgniter.php 360
+ERROR - 2017-10-29 21:50:05 --> Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'page_missing' /home/cinfo/public_html/vidcproj/system/core/CodeIgniter.php 360
+ERROR - 2017-10-29 22:54:22 --> Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'page_missing' /home/cinfo/public_html/vidcproj/system/core/CodeIgniter.php 360
+ERROR - 2017-10-29 23:05:33 --> Severity: Notice  --> Undefined variable: meta_keywords /home/cinfo/public_html/vidcproj/application/views/header_outer.php 37
+ERROR - 2017-10-29 23:05:52 --> Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'page_missing' /home/cinfo/public_html/vidcproj/system/core/CodeIgniter.php 360
+ERROR - 2017-10-29 23:11:33 --> Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'page_missing' /home/cinfo/public_html/vidcproj/system/core/CodeIgniter.php 360
+ERROR - 2017-10-29 23:22:27 --> Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'page_missing' /home/cinfo/public_html/vidcproj/system/core/CodeIgniter.php 360
+ERROR - 2017-10-29 23:22:27 --> Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'page_missing' /home/cinfo/public_html/vidcproj/system/core/CodeIgniter.php 360
+ERROR - 2017-10-29 23:22:27 --> Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'page_missing' /home/cinfo/public_html/vidcproj/system/core/CodeIgniter.php 360
+ERROR - 2017-10-29 23:22:27 --> Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'page_missing' /home/cinfo/public_html/vidcproj/system/core/CodeIgniter.php 360
+ERROR - 2017-10-29 23:22:28 --> Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'page_missing' /home/cinfo/public_html/vidcproj/system/core/CodeIgniter.php 360
+ERROR - 2017-10-29 23:22:28 --> Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'page_missing' /home/cinfo/public_html/vidcproj/system/core/CodeIgniter.php 360

@@ -1,0 +1,41 @@
+table 
+{
+	color: black;
+font-size: 12px !important;
+	padding:0;
+	border: 1px solid black; 
+	border-collapse: collapse;
+    width: 100%;
+}
+.gst-row
+{
+	padding: 0;
+	margin-top: 0;
+	font-size: 8px;
+	padding-top: -48px;
+}
+.gst-row h5
+{
+	color: red
+}
+.transs
+{
+	font-size: 7px;
+}
+.main-tab td
+{
+	font-weight: smaller;
+	text-align: center;
+}
+.test
+{
+	height:15px;
+	line-height:15px;
+	text-align:center;
+}
+.ern{
+	margin:0;
+	padding-top: 0;
+	padding-top: -25px;
+}
+
